@@ -88,10 +88,11 @@ return 0;
 ## OUTPUT
 ## 1.To Write a C program that illustrates files copying 
 
-![image](https://github.com/user-attachments/assets/acd2dc9c-6b1e-46bb-9bc7-f8b8138a9106)
+![image](https://github.com/user-attachments/assets/32a3ea8e-5ab2-4280-883a-506583540b36)
 
 ## 2.To Write a C program that illustrates files locking
-![image](https://github.com/user-attachments/assets/e28141d6-03f9-4b7b-a145-dfdb03047cfa)
+![image](https://github.com/user-attachments/assets/0e83dbc3-d2ca-4569-b999-262cbbb6df83)
+
 
 
 
